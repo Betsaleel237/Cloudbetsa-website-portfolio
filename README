@@ -1,6 +1,5 @@
 
-tutorial's link : https://www.youtube.com/watch?v=iJKCj8uAHz8&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E&index=12
-website for illustration: [manypixel](https://www.manypixels.co/gallery)
-website to waves : https://getwaves.io/
+This is my portfolio builded with sass
+
 to run the script use this :
     npm run compile:sass
